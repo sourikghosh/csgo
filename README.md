@@ -23,4 +23,4 @@ Clone the repo first
   * **"{*steam/Csgo is installed*}\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"**
 
   **NOTE:** The exact name of file is important if you changed the name of the file please change name as well in set launch option in steam
-  replace **+exec autoexec** with **+exec *[name of the file]**
+  replace **+exec autoexec** with **+exec [*name of the file*]**
