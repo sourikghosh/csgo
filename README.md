@@ -26,7 +26,7 @@ Clone the repo first
   *replace **+exec autoexec** with **+exec [name of the file]***
 
 * #### CONFIG setup
-  * Navigate to folder where steam is instaled ***{steam is installed}\Steam\userdata\{Choose the correct user id}\730\local\cfg***
+  * Navigate to folder where steam is instaled ***{steam is installed}\Steam\userdata\ {Choose the correct user id} \730\local\cfg***
   * copy the **config.cfg** file and paste it and if prompted select *replace* the files
  
   **NOTE:** *You can check the current user id of the steam account you currently logged in by navigating to steam inventory->trade offers->who can send me trade offer
