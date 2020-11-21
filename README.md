@@ -31,3 +31,9 @@ Clone the repo first
  
   **NOTE:** *You can check the current user id of the steam account you currently logged in by navigating to steam inventory->trade offers->who can send me trade offer
   you will see your trade link follow the link from partner=**3XXXXXXXX...** thats your current user id*
+
+* #### SMOKE config
+  * copy paste the smokePrac.cfg to the same spot where you paste the autoexec.cfg i.e **"{*steam/Csgo is installed*}\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"**
+  * you can call it in-game by pressing the **` or the console key** and type ***exec smokePrac***
+ 
+  **NOTE:** The name of file is important if you changed the name please call the file with the new name eg: ***exec NEW_NAME***
